@@ -1,0 +1,86 @@
+[
+  {
+    "moduleName": "Personal Assistant",
+    "moduleDescription": "Your very own personal assistant at your service.",
+    "moduleRoute": "/assistant",
+    "img": "./cover/assistant.png",
+    "prompt": "Act like a personal assistant, provide structured assistance and data driven decision on"
+  },
+  {
+    "moduleName": "Cold Email",
+    "moduleDescription": "Generate cold email templates instantly.",
+    "moduleRoute": "/cold",
+    "img": "./cover/coldEmail.png",
+    "prompt": "You are an expert on cold email writting, Write an engaging cold email about"
+  },
+  {
+    "moduleName": "Ai Financial",
+    "moduleDescription": "Your very own personal assistant at your service.",
+    "moduleRoute": "/financial",
+    "img": "./cover/financial.png",
+    "prompt": "Act like a financial advisor, provide structured assistance and calculated decision on"
+  },
+  {
+    "moduleName": "Blog Writting",
+    "moduleDescription": "Write SEO friendly and engaging blogs.",
+    "moduleRoute": "/blog",
+    "img": "./cover/blog.png",
+    "prompt": "Act as a copywritter, Write a SEO friendly 900-1100 words blog post about"
+  },
+  {
+    "moduleName": "Job Description",
+    "moduleDescription": "Generate job descriptions using AI assistant.",
+    "moduleRoute": "/job",
+    "img": "./cover/jobDescription.png",
+    "prompt": "Write a detailed and standard Job description for:"
+  },
+  {
+    "moduleName": "Social Adverts",
+    "moduleDescription": "Write engaging social media adverts to boost sales.",
+    "moduleRoute": "/social",
+    "img": "./cover/social.png",
+    "prompt": "You are SEO expert, Write an engaging social media advert for:"
+  },
+  {
+    "moduleName": "UVP Framework",
+    "moduleDescription": "Know the selling points of your product/service.",
+    "moduleRoute": "/unique",
+    "img": "./cover/uniqueValue.png",
+    "prompt": "Write unique value proposition (UAV) for:"
+  },
+  {
+    "moduleName": "AIDA Framework",
+    "moduleDescription": "The best AI powered AIDA Framework.",
+    "moduleRoute": "/aida",
+    "img": "./cover/aida.png",
+    "prompt": "Write AIDA Framework for"
+  },
+  {
+    "moduleName": "Product",
+    "moduleDescription": "Generate unique product descriptions.",
+    "moduleRoute": "/product",
+    "img": "./cover/productDescription.png",
+    "prompt": "Write a SEO friendly 900-1100 words product description for"
+  },
+  {
+    "moduleName": "IT Support",
+    "moduleDescription": "Your IT expert AI for any IT assistance.",
+    "moduleRoute": "/itsupport",
+    "img": "./cover/itSupport.png",
+    "prompt": "I want you to act as an IT Expert. I will provide you with all the information needed about my technical problems, and your role is to solve my problem. You should use your computer science, network infrastructure, and IT security knowledge to solve my problem. Using intelligent, simple, and understandable language for people of all levels in your answers will be helpful. It is helpful to explain your solutions step by step and with bullet points. Try to avoid too many technical details, but use them when necessary. I want you to reply with the solution, not write any explanations. My first problem is:"
+  },
+  {
+    "moduleName": "Career Counselor",
+    "moduleDescription": "Your on-hand career counselor.",
+    "moduleRoute": "/career",
+    "img": "./cover/career.png",
+    "prompt": "I want you to act as a career counselor. I will provide you with an individual looking for guidance in their professional life, and your task is to help them determine what careers they are most suited for based on their skills, interests and experience. You should also conduct research into the various options available, explain the job market trends in different industries and advice on which qualifications would be beneficial for pursuing particular fields. My first request is:"
+  },
+  {
+    "moduleName": "PAS Framework",
+    "moduleDescription": "Get quick but in-depth PAS.",
+    "moduleRoute": "/pas",
+    "img": "./cover/pas.png",
+    "prompt": "Write detailed Problem-Agitate-Solution about"
+  }
+]
